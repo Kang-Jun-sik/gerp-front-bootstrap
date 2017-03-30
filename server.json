@@ -1,0 +1,10 @@
+{
+  "local": {
+    "port": "8000"
+  },
+    "remote": {
+    "protocol": "http",
+      "host": "14.41.60.212",
+      "port": "8080"
+  }
+}

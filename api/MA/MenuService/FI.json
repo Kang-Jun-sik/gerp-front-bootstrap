@@ -1,0 +1,534 @@
+[
+  {
+    "id": "BIM",
+    "name": "기준정보관리",
+    "url": "BIM",
+    "module": "FI",
+    "children": [
+      {
+        "id": "BIMGLM",
+        "name": "계정관리",
+        "url": "BIMGLM",
+        "module": "FI",
+        "children": [
+          {
+            "id": "BIMGLM00100",
+            "name": "관리항목등록",
+            "url": "BIMGLM00100",
+            "module": "FI"
+          },
+          {
+            "id": "BIMGLM00200",
+            "name": "관리내역등록",
+            "url": "BIMGLM00200",
+            "module": "FI"
+          },
+          {
+            "id": "BIMGLM00300",
+            "name": "계정별적요등록",
+            "url": "BIMGLM00300",
+            "module": "FI"
+          },
+          {
+            "id": "BIMGLM00400",
+            "name": "자금과목등록",
+            "url": "BIMGLM00400",
+            "module": "FI"
+          },
+          {
+            "id": "BIMGLM00500",
+            "name": "관리항목일괄수정",
+            "url": "BIMGLM00500",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "BIMBDR",
+        "name": "기초자료등록",
+        "url": "BIMBDR",
+        "module": "FI",
+        "children": [
+          {
+            "id": "BIMBDR00100",
+            "name": "예적금계좌등록",
+            "url": "BIMBDR00100",
+            "module": "FI"
+          },
+          {
+            "id": "BIMBDR00200",
+            "name": "신용카드등록",
+            "url": "BIMBDR00200",
+            "module": "FI"
+          },
+          {
+            "id": "BIMBDR00300",
+            "name": "사업자등록번호등록",
+            "url": "BIMBDR00300",
+            "module": "FI"
+          },
+          {
+            "id": "BIMBDR00400",
+            "name": "휴일정보등록",
+            "url": "BIMBDR00400",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "BIMFSS",
+        "name": "재무제표설정",
+        "url": "BIMFSS",
+        "module": "FI",
+        "children": [
+          {
+            "id": "BIMFSS00100",
+            "name": "재무제표양식등록",
+            "url": "BIMFSS00100",
+            "module": "FI"
+          },
+          {
+            "id": "BIMFSS00200",
+            "name": "계정그룹등록",
+            "url": "BIMFSS00200",
+            "module": "FI"
+          },
+          {
+            "id": "BIMFSS00300",
+            "name": "계정과목연결등록",
+            "url": "BIMFSS00300",
+            "module": "FI"
+          },
+          {
+            "id": "BIMFSS00400",
+            "name": "현금흐름항목등록",
+            "url": "BIMFSS00400",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "BIMERS",
+        "name": "초기이월마감",
+        "url": "BIMERS",
+        "module": "FI",
+        "children": [
+          {
+            "id": "BIMERS00100",
+            "name": "회계기수이월",
+            "url": "BIMERS00100",
+            "module": "FI"
+          },
+          {
+            "id": "BIMERS00200",
+            "name": "초기이월등록",
+            "url": "BIMERS00200",
+            "module": "FI"
+          },
+          {
+            "id": "BIMERS00300",
+            "name": "전표마감등록",
+            "url": "BIMERS00300",
+            "module": "FI"
+          },
+          {
+            "id": "BIMERS00400",
+            "name": "지급등록마감등록",
+            "url": "BIMERS00400",
+            "module": "FI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "GLD",
+    "name": "총계정원장",
+    "url": "GLD",
+    "module": "FI",
+    "children": [
+      {
+        "id": "GLDDOC",
+        "name": "전표관리",
+        "url": "GLDDOC",
+        "module": "FI",
+        "children": [
+          {
+            "id": "GLDDOC00100",
+            "name": "품의서입력",
+            "url": "GLDDOC00100",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00200",
+            "name": "품의서승인",
+            "url": "GLDDOC00200",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00300",
+            "name": "일반결의서입력",
+            "url": "GLDDOC00300",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00400",
+            "name": "일반결의서승인",
+            "url": "GLDDOC00400",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00500",
+            "name": "채권결의서입력",
+            "url": "GLDDOC00500",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00600",
+            "name": "채권결의서승인",
+            "url": "GLDDOC00600",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00700",
+            "name": "채무결의서승인",
+            "url": "GLDDOC00700",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00800",
+            "name": "채무결의서승인",
+            "url": "GLDDOC00800",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC00900",
+            "name": "자산결의서승인",
+            "url": "GLDDOC00900",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01000",
+            "name": "자산결의서승인",
+            "url": "GLDDOC01000",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01100",
+            "name": "전표입력",
+            "url": "GLDDOC01100",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01200",
+            "name": "전표승인",
+            "url": "GLDDOC01200",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01300",
+            "name": "전표현황",
+            "url": "GLDDOC01300",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01400",
+            "name": "결의자동전표입력",
+            "url": "GLDDOC01400",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01500",
+            "name": "본지점일괄입력",
+            "url": "GLDDOC01500",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01600",
+            "name": "연동전표체크입력",
+            "url": "GLDDOC01600",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01700",
+            "name": "전표삭제이력현황",
+            "url": "GLDDOC01700",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDOC01800",
+            "name": "전표변경현황",
+            "url": "GLDDOC01800",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "GLDDCM",
+        "name": "장부관리",
+        "url": "GLDDCM",
+        "module": "FI",
+        "children": [
+          {
+            "id": "GLDDCM00100",
+            "name": "분개장",
+            "url": "GLDDCM00100",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00200",
+            "name": "계정별원장",
+            "url": "GLDDCM00200",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00300",
+            "name": "총계정원장",
+            "url": "GLDDCM00300",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00400",
+            "name": "월일계표",
+            "url": "GLDDCM00400",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00500",
+            "name": "현금출납장",
+            "url": "GLDDCM00500",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00600",
+            "name": "매입매출장",
+            "url": "GLDDCM00600",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00700",
+            "name": "거래처원장",
+            "url": "GLDDCM00700",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00800",
+            "name": "선입선출채권연령분석",
+            "url": "GLDDCM00800",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM00900",
+            "name": "본지점정리현황",
+            "url": "GLDDCM00900",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM01000",
+            "name": "보조원장잔액현황",
+            "url": "GLDDCM01000",
+            "module": "FI"
+          },
+          {
+            "id": "GLDDCM01100",
+            "name": "보조원장상세현황",
+            "url": "GLDDCM01100",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "GLDCMT",
+        "name": "결산관리",
+        "url": "GLDCMT",
+        "module": "FI",
+        "children": [
+          {
+            "id": "GLDCMT00100",
+            "name": "외화평가입력",
+            "url": "GLDCMT00100",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00200",
+            "name": "기간손익계산입력",
+            "url": "GLDCMT00200",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00300",
+            "name": "기간비용현황",
+            "url": "GLDCMT00300",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00400",
+            "name": "원가대체결산자료등록",
+            "url": "GLDCMT00400",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00500",
+            "name": "결산전표처리",
+            "url": "GLDCMT00500",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00600",
+            "name": "역분개전표처리",
+            "url": "GLDCMT00600",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00700",
+            "name": "결산명세서등록",
+            "url": "GLDCMT00700",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00800",
+            "name": "재무상태표 부속명세서",
+            "url": "GLDCMT00800",
+            "module": "FI"
+          },
+          {
+            "id": "GLDCMT00900",
+            "name": "손익계산서 부속명세서",
+            "url": "GLDCMT00900",
+            "module": "FI"
+          }
+        ]
+      },
+      {
+        "id": "GLDFSM",
+        "name": "재무제표관리",
+        "url": "GLDFSM",
+        "module": "FI",
+        "children": [
+          {
+            "id": "GLDFSM00100",
+            "name": "합계잔액시산표",
+            "url": "GLDFSM00100",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00200",
+            "name": "재무상태표",
+            "url": "GLDFSM00200",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00300",
+            "name": "손익계산서",
+            "url": "GLDFSM00300",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00400",
+            "name": "제조원가보고서",
+            "url": "GLDFSM00400",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00500",
+            "name": "현금흐름표",
+            "url": "GLDFSM00500",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00600",
+            "name": "이익잉여금처분계산서",
+            "url": "GLDFSM00600",
+            "module": "FI"
+          },
+          {
+            "id": "GLDFSM00700",
+            "name": "자본변동표",
+            "url": "GLDFSM00700",
+            "module": "FI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ARE",
+    "name": "매출채권",
+    "url": "ARE",
+    "module": "FI",
+    "children": [
+      {
+        "id": "AREARC",
+        "name": "AR반제관리",
+        "url": "AREARC",
+        "module": "FI",
+        "children": [
+          {
+            "id": "AREARC00100",
+            "name": "반제일괄처리",
+            "url": "AREARC00100",
+            "module": "FI"
+          },
+          {
+            "id": "AREARC00200",
+            "name": "채권상계처리",
+            "url": "AREARC00200",
+            "module": "FI"
+          },
+          {
+            "id": "AREARC00300",
+            "name": "건별반제정리현황",
+            "url": "AREARC00300",
+            "module": "FI"
+          },
+          {
+            "id": "AREARC00400",
+            "name": "채권연령분석",
+            "url": "AREARC00400",
+            "module": "FI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "APE",
+    "name": "매입채무",
+    "url": "APE",
+    "module": "FI",
+    "children": [
+      {
+        "id": "APEAPY",
+        "name": "AP반제관리",
+        "url": "APEAPY",
+        "module": "FI",
+        "children": [
+          {
+            "id": "APEAPY00100",
+            "name": "반제일괄처리",
+            "url": "APEAPY00100",
+            "module": "FI"
+          },
+          {
+            "id": "APEAPY00200",
+            "name": "채무상계처리",
+            "url": "APEAPY00200",
+            "module": "FI"
+          },
+          {
+            "id": "APEAPY00300",
+            "name": "건별반제정리현황",
+            "url": "APEAPY00300",
+            "module": "FI"
+          },
+          {
+            "id": "APEAPY00400",
+            "name": "채무연령분석",
+            "url": "APEAPY00400",
+            "module": "FI"
+          }
+        ]
+      }
+    ]
+  }
+]

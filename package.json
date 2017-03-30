@@ -1,0 +1,28 @@
+{
+  "name": "gerp-front-bootstrap",
+  "version": "0.0.1",
+  "description": "G-ERP 프론트엔드개발 부트스트랩",
+  "keywords": [
+    "g-erp",
+    "frontend"
+  ],
+  "bugs": {
+    "url": "http://git.comet.duzon.net/front-end-ui/gerp-front-bootstrap/issues"
+  },
+  "author": {
+    "name": "Hwigyeom Noh",
+    "email": "whistle@douzone.com"
+  },
+  "scripts": {
+    "start": "nodemon node_modules/@comet/gerp-main/server/app.js"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "http://git.comet.duzon.net/front-end/gerp-main.git"
+  },
+  "devDependencies": {
+    "@comet/gerp-main": "file:///C:\\Users\\hwigyeom\\Projects\\GERP\\_Sources_\\gerp-main",
+    "nodemon": "^1.11.0"
+  }
+}
