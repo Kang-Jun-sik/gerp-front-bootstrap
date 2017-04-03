@@ -14,7 +14,7 @@
     "email": "whistle@douzone.com"
   },
   "scripts": {
-    "start": "nodemon node_modules/@comet/gerp-main/server/app.js"
+    "start": "nodemon node_modules/@comet/gerp-main/server/app.js --color"
   },
   "license": "UNLICENSED",
   "repository": {
