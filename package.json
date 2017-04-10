@@ -7,7 +7,7 @@
     "frontend"
   ],
   "bugs": {
-    "url": "http://git.comet.duzon.net/front-end-ui/gerp-front-bootstrap/issues"
+    "url": "https://git.comet.duzon.net/front-end-ui/gerp-front-bootstrap/issues"
   },
   "author": {
     "name": "Hwigyeom Noh",
@@ -19,7 +19,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "http://git.comet.duzon.net/front-end/gerp-main.git"
+    "url": "https://git.comet.duzon.net/front-end/gerp-main.git"
   },
   "devDependencies": {
     "@comet/gerp-main": "*",
