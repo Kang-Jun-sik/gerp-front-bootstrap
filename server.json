@@ -3,8 +3,8 @@
     "port": "8000"
   },
     "remote": {
-    "protocol": "http",
-      "host": "localhost",
-      "port": "8080"
+    "protocol": "https",
+      "host": "dev.comet.duzon.net",
+      "port": "443"
   }
 }
