@@ -7,10 +7,12 @@
       "info": {
         "userid": "douzone",
         "username": "김더존",
-        "companyCode": "BIZON",
-        "companyName": "더존비즈온",
-        "groupCode": "002",
-        "groupName": "영업그룹"
+        "timezone": "KOR10",
+        "companyCode": "GERP",
+        "companyName": "(주)지이알피",
+        "groupCode": "2000",
+        "groupName": "임원그룹(GERP)",
+        "language": "ko"
       }
     }
   ]
