@@ -22,7 +22,7 @@
     "url": "https://git.comet.duzon.net/front-end/gerp-main.git"
   },
   "devDependencies": {
-    "@comet/gerp-main": "*",
-    "nodemon": "^1.11.0"
+    "@comet/gerp-main": "^0.5.131",
+    "nodemon": "^1.18.4"
   }
 }
